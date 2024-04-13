@@ -1,0 +1,146 @@
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75-MDtype96-98/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75-MDtype96.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75-MDtype96.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MParam11-MShape13-15/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MParam11-MShape13.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MParam11-MShape13.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-32/alexnet-cifar10_origin-Edge0-MParam12-MDtype30.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge0-MParam12-MDtype30.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-LMerg20-Edge35-37/alexnet-cifar10_origin-Edge0-MParam12-LMerg20-Edge35.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge0-MParam12-LMerg20-Edge35.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MDims37-NLAll41-MDims42-LMerg59-NLAll70-72/alexnet-cifar10_origin-MDims37-NLAll41-MDims42-LMerg59-NLAll70.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-MDims37-NLAll41-MDims42-LMerg59-NLAll70.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MDims1-3/alexnet-cifar10_origin-MDims1.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-MDims1.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-NLAll52-MParam84-86/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-NLAll52-MParam84.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-NLAll52-MParam84.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-Edge68-70/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-Edge68.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-Edge68.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-NLAll55-57/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-NLAll55.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 256), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam50-Edge51-53/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam50-Edge51.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam50-Edge51.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge23-MDtype36-NLAll48-50/alexnet-cifar10_origin-Edge23-MDtype36-NLAll48.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge23-MDtype36-NLAll48.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MDims37-NLAll41-43/alexnet-cifar10_origin-MDims37-NLAll41.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-MDims37-NLAll41.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MDims37-NLAll41-MDims42-44/alexnet-cifar10_origin-MDims37-NLAll41-MDims42.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-MDims37-NLAll41-MDims42.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MShape7-LMerg58-60/alexnet-cifar10_origin-Edge0-MShape7-LMerg58.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/alexnet-cifar10_origin-Edge0-MShape7-LMerg58.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MParam33-MDtype46-48/alexnet-cifar10_origin-MParam33-MDtype46.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-Edge68-MParam73-75/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-Edge68-MParam73.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-NLAll28-NLAll53-55/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-NLAll28-NLAll53.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_NLAll" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_NLAll" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 1, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MParam11-MDtype21-23/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MParam11-MDtype21.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MDims40-NLAll69-71/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MDims40-NLAll69.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MShape67-69/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MShape67.h5 FAILED!!!!
+Calculated padded input size per channel: (4 x 2). Kernel size: (3 x 3). Kernel size can't be greater than actual input size
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-65/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll10-MDims60-62/alexnet-cifar10_origin-Edge0-NLAll10-MDims60.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam50-LMerg62-64/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam50-LMerg62.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-NLAll52-54/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-NLAll52.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-8/alexnet-cifar10_origin-Edge0-NLAll6.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-LMerg34-LMerg81-83/alexnet-cifar10_origin-Edge0-MParam12-LMerg34-LMerg81.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-47/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MParam33-MDtype46-LMerg71-73/alexnet-cifar10_origin-MParam33-MDtype46-LMerg71.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-MDims17-Edge22-NLAll86-88/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-MDims17-Edge22-NLAll86.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 256), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75-77/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-MParam76-78/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-MParam76.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-Edge68-LMerg80-82/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-Edge68-LMerg80.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-40/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MParam33-LMerg61-63/alexnet-cifar10_origin-MParam33-LMerg61.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-NLAll79-81/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-NLAll79.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MShape19-21/alexnet-cifar10_origin-Edge0-MDims3-MShape9-MShape19.h5 FAILED!!!!
+Calculated padded input size per channel: (3 x 2). Kernel size: (3 x 3). Kernel size can't be greater than actual input size
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MParam33-MDtype46-MParam99-101/alexnet-cifar10_origin-MParam33-MDtype46-MParam99.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75-MShape91-93/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75-MShape91.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-LMerg64-66/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-LMerg64.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-MDims57-59/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-MDims57.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MParam33-MDtype46-LMerg49-51/alexnet-cifar10_origin-MParam33-MDtype46-LMerg49.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-NLAll47-49/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-NLAll47.h5 FAILED!!!!
+ConvTranspose with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-NLAll52-MDtype92-94/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-NLAll52-MDtype92.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-NLAll55-NLAll88-90/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-NLAll55-NLAll88.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_NLAll" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_NLAll" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 256), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-MDims17-Edge22-MDtype83-85/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-MDims17-Edge22-MDtype83.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll10-NLAll39-41/alexnet-cifar10_origin-Edge0-NLAll10-NLAll39.h5 FAILED!!!!
+Max pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-NLAll28-30/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-NLAll28.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 1, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-NLAll72-74/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-NLAll72.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='SparseMatMul', version=15))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll10-12/alexnet-cifar10_origin-Edge0-NLAll10.h5 FAILED!!!!
+Max pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MParam33-NLAll78-80/alexnet-cifar10_origin-MParam33-NLAll78.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-NLAll72-NLAll89-91/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-NLAll72-NLAll89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='SparseMatMul', version=15))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-33/alexnet-cifar10_origin-Edge0-NLAll6-MParam31.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-MDims17-Edge22-MDtype83-NLAll95-97/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-MDims17-Edge22-MDtype83-NLAll95.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 3, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MDims37-NLAll41-MDims42-LMerg59-61/alexnet-cifar10_origin-MDims37-NLAll41-MDims42-LMerg59.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge23-NLAll97-99/alexnet-cifar10_origin-Edge23-NLAll97.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.

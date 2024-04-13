@@ -1,0 +1,134 @@
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-44/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-Edge74-76/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-Edge74.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-Edge74.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-LMerg11-NLAll63-NLAll64-NLAll70-MDims99-101/densenet121-imagenet_origin-Edge5-LMerg11-NLAll63-NLAll64-NLAll70-MDims99.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg36-NLAll67-NLAll71-73/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg36-NLAll67-NLAll71.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='LSTM', version=14))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-MDtype83-85/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-MDtype83.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-NLAll20-SpecialI23-25/densenet121-imagenet_origin-Edge5-NLAll20-SpecialI23.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDims4-MShape9-MDtype47-49/densenet121-imagenet_origin-MDims4-MShape9-MDtype47.h5 FAILED!!!!
+"avg_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-MParam49-LMerg93-95/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-MParam49-LMerg93.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg31-33/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg31.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-NLAll20-MDtype22-NLAll66-68/densenet121-imagenet_origin-Edge5-NLAll20-MDtype22-NLAll66.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-MDims82-84/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-MDims82.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-57/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-LMerg11-MDtype17-19/densenet121-imagenet_origin-Edge5-LMerg11-MDtype17.h5 FAILED!!!!
+"avg_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-MDims82-NLAll89-91/densenet121-imagenet_origin-MDtype1-MDtype12-NLAll42-Edge55-MDims82-NLAll89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDims4-MDtype7-LMerg30-MDtype33-35/densenet121-imagenet_origin-MDims4-MDtype7-LMerg30-MDtype33.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDims4-MParam24-Edge28-Edge38-NLAll80-82/densenet121-imagenet_origin-MDims4-MParam24-Edge28-Edge38-NLAll80.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg36-NLAll52-54/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg36-NLAll52.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-50/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-LMerg11-NLAll63-NLAll64-NLAll70-72/densenet121-imagenet_origin-Edge5-LMerg11-NLAll63-NLAll64-NLAll70.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDims4-MDtype7-LMerg30-MDtype33-MParam58-60/densenet121-imagenet_origin-MDims4-MDtype7-LMerg30-MDtype33-MParam58.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-LMerg11-NLAll63-NLAll64-NLAll73-75/densenet121-imagenet_origin-Edge5-LMerg11-NLAll63-NLAll64-NLAll73.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 256), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-MDtype25-NLAll27-LMerg96-98/densenet121-imagenet_origin-MDtype1-MDtype8-MDtype25-NLAll27-LMerg96.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-NLAll20-MDtype22-MShape76-78/densenet121-imagenet_origin-Edge5-NLAll20-MDtype22-MShape76.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-LMerg11-NLAll44-NLAll51-SpecialI72-74/densenet121-imagenet_origin-Edge5-LMerg11-NLAll44-NLAll51-SpecialI72.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_SpecialI" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_SpecialI" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 114, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-MParam49-51/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-MParam49.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-LMerg11-NLAll44-46/densenet121-imagenet_origin-Edge5-LMerg11-NLAll44.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 832), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-MDtype69-71/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-MDtype69.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-MDtype25-NLAll27-29/densenet121-imagenet_origin-MDtype1-MDtype8-MDtype25-NLAll27.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype12-14/densenet121-imagenet_origin-MDtype1-MDtype12.h5 FAILED!!!!
+"avg_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDims4-MDtype7-LMerg30-MDtype33-MParam58-MDtype84-86/densenet121-imagenet_origin-MDims4-MDtype7-LMerg30-MDtype33-MParam58-MDtype84.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-NLAll20-22/densenet121-imagenet_origin-Edge5-NLAll20.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge0-SpecialI2-NLAll19-21/densenet121-imagenet_origin-Edge0-SpecialI2-NLAll19.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-LMerg11-NLAll44-NLAll51-53/densenet121-imagenet_origin-Edge5-LMerg11-NLAll44-NLAll51.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 114, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-23/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-MDtype25-NLAll27-NLAll45-47/densenet121-imagenet_origin-MDtype1-MDtype8-MDtype25-NLAll27-NLAll45.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-LMerg37-NLAll90-92/densenet121-imagenet_origin-Edge5-MShape10-LMerg37-NLAll90.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg31-MDtype61-63/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg31-MDtype61.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg36-NLAll52-SpecialI92-94/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg36-NLAll52-SpecialI92.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg36-NLAll52-NLAll68-70/densenet121-imagenet_origin-MDtype1-MDtype8-LMerg36-NLAll52-NLAll68.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-NLAll43-45/densenet121-imagenet_origin-MDtype1-MDtype8-NLAll43.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-NLAll20-MDtype22-24/densenet121-imagenet_origin-Edge5-NLAll20-MDtype22.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MShape15-17/densenet121-imagenet_origin-MShape15.h5 FAILED!!!!
+The input size 0, plus negative padding 0 and 0 resulted in a negative output size, which is invalid. Check dimension 1 of your input.
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-LMerg37-NLAll79-81/densenet121-imagenet_origin-Edge5-MShape10-LMerg37-NLAll79.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype8-NLAll43-NLAll88-90/densenet121-imagenet_origin-MDtype1-MDtype8-NLAll43-NLAll88.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-LMerg11-NLAll44-NLAll51-NLAll62-64/densenet121-imagenet_origin-Edge5-LMerg11-NLAll44-NLAll51-NLAll62.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 116, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge0-SpecialI2-LMerg6-NLAll53-55/densenet121-imagenet_origin-Edge0-SpecialI2-LMerg6-NLAll53.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDims4-MDtype7-LMerg30-32/densenet121-imagenet_origin-MDims4-MDtype7-LMerg30.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-NLAll39-41/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-NLAll39.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-MParam49-NLAll65-67/densenet121-imagenet_origin-Edge5-MShape10-MDims13-NLAll21-MDims48-MParam49-NLAll65.h5 FAILED!!!!
+ConvTranspose with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype12-MShape26-28/densenet121-imagenet_origin-MDtype1-MDtype12-MShape26.h5 FAILED!!!!
+"avg_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-Edge0-NLAll57-59/densenet121-imagenet_origin-Edge0-NLAll57.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/densenet/densenet121-imagenet_origin-MDtype1-MDtype60-62/densenet121-imagenet_origin-MDtype1-MDtype60.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'

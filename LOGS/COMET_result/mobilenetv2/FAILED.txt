@@ -1,0 +1,220 @@
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-MShape80-82/mobilenet-imagenet_origin-MParam5-NLAll6-MShape80.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_MShape" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_MShape" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDtype35-MDtype36-38/mobilenet-imagenet_origin-MDims0-SpecialI8-MDtype35-MDtype36.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-MDtype79-81/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-MDtype79.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-NLAll11-13/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-NLAll11.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_NLAll" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_NLAll" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-MDtype29-LMerg31-33/mobilenet-imagenet_origin-MParam5-MDtype29-LMerg31.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-MDims47-MParam73-75/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-MDims47-MParam73.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_MDims_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_MDims_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-Edge30-MDtype32-Edge65-67/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-Edge30-MDtype32-Edge65.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_Edge_copy_MDtype_copy_Edge" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_Edge_copy_MDtype_copy_Edge" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-NLAll60-62/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-NLAll60.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_NLAll" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_NLAll" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-NLAll92-94/mobilenet-imagenet_origin-MDims0-NLAll92.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-LMerg26-SpecialI72-74/mobilenet-imagenet_origin-MParam5-NLAll6-LMerg26-SpecialI72.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_LMerg_copy_SpecialI" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_LMerg_copy_SpecialI" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-MShape80-NLAll85-87/mobilenet-imagenet_origin-MParam5-NLAll6-MShape80-NLAll85.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_MShape_copy_NLAll" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_MShape_copy_NLAll" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-NLAll11-Edge87-89/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-NLAll11-Edge87.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_NLAll_copy_Edge" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_NLAll_copy_Edge" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-MDtype29-LMerg31-MParam58-NLAll76-78/mobilenet-imagenet_origin-MParam5-MDtype29-LMerg31-MParam58-NLAll76.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-MDims47-MParam73-NLAll86-88/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-MDims47-MParam73-NLAll86.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-NLAll93-95/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-NLAll93.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-MParam74-76/mobilenet-imagenet_origin-MParam5-NLAll6-MParam74.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-MDims47-49/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-MDims47.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_MDims" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_MDims" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-Edge30-MDims84-86/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-Edge30-MDims84.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_Edge_copy_MDims" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_Edge_copy_MDims" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-11/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-MParam77-MShape91-93/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-MParam77-MShape91.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-MDims44-46/mobilenet-imagenet_origin-MParam5-NLAll6-MDims44.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_MDims" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_MDims" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-LMerg98-100/mobilenet-imagenet_origin-MDims0-SpecialI8-LMerg98.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDtype1-MShape2-NLAll97-99/mobilenet-imagenet_origin-MDtype1-MShape2-NLAll97.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDtype35-37/mobilenet-imagenet_origin-MDims0-SpecialI8-MDtype35.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDtype1-MShape2-MDims41-Edge43-NLAll59-NLAll82-84/mobilenet-imagenet_origin-MDtype1-MShape2-MDims41-Edge43-NLAll59-NLAll82.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='LSTM', version=14))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-MParam66-68/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-MParam66.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-44/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-LMerg26-28/mobilenet-imagenet_origin-MParam5-NLAll6-LMerg26.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_LMerg" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_LMerg" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-LMerg26-MParam95-97/mobilenet-imagenet_origin-MParam5-NLAll6-LMerg26-MParam95.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_LMerg_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_LMerg_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-MDtype29-LMerg31-Edge89-91/mobilenet-imagenet_origin-MParam5-MDtype29-LMerg31-Edge89.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-Edge30-32/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-Edge30.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_Edge" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_Edge" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-MDims47-MDims52-54/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-MDims47-MDims52.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_MDims_copy_MDims" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_MDims_copy_MDims" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDtype1-MParam20-MDtype23-LMerg34-MShape71-73/mobilenet-imagenet_origin-MDtype1-MParam20-MDtype23-LMerg34-MShape71.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-8/mobilenet-imagenet_origin-MParam5-NLAll6.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-MParam77-79/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-MParam77.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-Edge30-MDtype32-34/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-Edge30-MDtype32.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_Edge_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype_copy_Edge_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-Edge68-MDtype75-LMerg94-96/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-Edge68-MDtype75-LMerg94.h5 FAILED!!!!
+tensor(): argument 'device' must be torch.device, not Attribute
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19-21/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-MDtype19.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-NLAll11-Edge87-MParam96-98/mobilenet-imagenet_origin-MParam5-NLAll6-Edge9-NLAll11-Edge87-MParam96.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1_copy_Edge_copy_NLAll_copy_Edge_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1_copy_Edge_copy_NLAll_copy_Edge_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64-66/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-LMerg64.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MParam5-MDtype29-LMerg31-MParam58-60/mobilenet-imagenet_origin-MParam5-MDtype29-LMerg31-MParam58.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-MParam56-58/mobilenet-imagenet_origin-MDims0-SpecialI8-MDims25-MDtype42-MParam56.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDtype1-MShape2-MDims7-MDtype88-90/mobilenet-imagenet_origin-MDtype1-MShape2-MDims7-MDtype88.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/mobilenetv2/mobilenet-imagenet_origin-MDtype1-MParam20-MDtype23-LMerg34-36/mobilenet-imagenet_origin-MDtype1-MParam20-MDtype23-LMerg34.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))

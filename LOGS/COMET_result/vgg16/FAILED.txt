@@ -1,0 +1,142 @@
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll98-100/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll98.h5 FAILED!!!!
+ConvTranspose with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MParam28-30/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MParam28.h5 FAILED!!!!
+Max pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll52-MParam65-MDims80-82/vgg16-imagenet_origin-NLAll52-MParam65-MDims80.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-MDtype34-36/vgg16-imagenet_origin-NLAll5-MDtype34.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-NLAll53-55/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-NLAll53.h5 FAILED!!!!
+ConvTranspose with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-LMerg4-MParam63-SpecialI76-78/vgg16-imagenet_origin-LMerg4-MParam63-SpecialI76.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-MDims6-8/vgg16-imagenet_origin-NLAll5-MDims6.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDims" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDims" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-MDims6-MParam61-MDtype67-MDtype68-70/vgg16-imagenet_origin-NLAll5-MDims6-MParam61-MDtype67-MDtype68.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDims_copy_MParam_copy_MDtype_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDims_copy_MParam_copy_MDtype_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MParam28-MShape90-92/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MParam28-MShape90.h5 FAILED!!!!
+Max pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-LMerg21-23/vgg16-imagenet_origin-NLAll5-LMerg21.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_LMerg" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_LMerg" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MDtype36-38/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MDtype36.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll52-54/vgg16-imagenet_origin-NLAll52.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-NLAll53-MParam73-MShape84-86/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-NLAll53-MParam73-MShape84.h5 FAILED!!!!
+ConvTranspose with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-Edge42-MDtype88-90/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-Edge42-MDtype88.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-Edge42-MDtype88-LMerg92-94/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-Edge42-MDtype88-LMerg92.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MShape26-28/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MShape26.h5 FAILED!!!!
+Max pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-7/vgg16-imagenet_origin-NLAll5.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-NLAll71-73/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-NLAll71.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-25/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23.h5 FAILED!!!!
+Max pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-MDims6-MParam61-MDtype67-69/vgg16-imagenet_origin-NLAll5-MDims6-MParam61-MDtype67.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDims_copy_MParam_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDims_copy_MParam_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MShape26-MDtype85-87/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MShape26-MDtype85.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-MDtype34-MDtype62-64/vgg16-imagenet_origin-NLAll5-MDtype34-MDtype62.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDtype_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDtype_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MParam28-SpecialI30-32/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-NLAll17-NLAll23-MParam28-SpecialI30.h5 FAILED!!!!
+Max pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MDtype36-NLAll87-89/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MDtype36-NLAll87.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-Edge45-NLAll57-59/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-Edge45-NLAll57.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-43/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll52-MParam65-MShape70-72/vgg16-imagenet_origin-NLAll52-MParam65-MShape70.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-MDtype34-LMerg50-LMerg54-56/vgg16-imagenet_origin-NLAll5-MDtype34-LMerg50-LMerg54.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDtype_copy_LMerg_copy_LMerg" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDtype_copy_LMerg_copy_LMerg" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-MDims6-MParam61-63/vgg16-imagenet_origin-NLAll5-MDims6-MParam61.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDims_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDims_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll52-MParam65-67/vgg16-imagenet_origin-NLAll52-MParam65.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-LMerg4-MParam63-65/vgg16-imagenet_origin-LMerg4-MParam63.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MDtype36-NLAll91-93/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MDtype36-NLAll91.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='SparseMatMul', version=15))
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-MDtype34-LMerg50-52/vgg16-imagenet_origin-NLAll5-MDtype34-LMerg50.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDtype_copy_LMerg" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDtype_copy_LMerg" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll52-Edge78-80/vgg16-imagenet_origin-NLAll52-Edge78.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-NLAll5-LMerg74-76/vgg16-imagenet_origin-NLAll5-LMerg74.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_LMerg" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_LMerg" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 512), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-46/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-Edge42-MDtype88-MDtype89-91/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-Edge42-MDtype88-MDtype89.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg16/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-NLAll53-MParam73-75/vgg16-imagenet_origin-MParam7-MDims11-NLAll12-LMerg13-MParam16-Edge19-MParam40-MDtype41-MDtype44-NLAll53-MParam73.h5 FAILED!!!!
+ConvTranspose with non symmetrical padding is not implemented.

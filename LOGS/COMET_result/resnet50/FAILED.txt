@@ -1,0 +1,190 @@
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype12-LMerg27-29/resnet50-imagenet_origin-Edge2-NLAll4-MDtype12-LMerg27.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-39/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-MParam18-NLAll85-87/resnet50-imagenet_origin-LMerg1-Edge11-MParam18-NLAll85.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-LMerg17-19/resnet50-imagenet_origin-LMerg1-LMerg17.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-11/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-MDims61-63/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-MDims61.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-MParam59-NLAll69-71/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-MParam59-NLAll69.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MParam_copy_NLAll" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MParam_copy_NLAll" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 28, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll57-59/resnet50-imagenet_origin-Edge2-NLAll57.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-MDtype79-81/resnet50-imagenet_origin-LMerg1-Edge11-MDtype79.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-MDims13-LMerg53-55/resnet50-imagenet_origin-MDims13-LMerg53.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype12-LMerg27-MDtype87-89/resnet50-imagenet_origin-Edge2-NLAll4-MDtype12-LMerg27-MDtype87.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-MDtype19-21/resnet50-imagenet_origin-LMerg1-Edge14-MDtype19.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-48/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 28, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-LMerg36-NLAll60-62/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-LMerg36-NLAll60.h5 FAILED!!!!
+tensor(): argument 'device' must be torch.device, not Attribute
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-7/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-MParam18-20/resnet50-imagenet_origin-LMerg1-Edge11-MParam18.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-LMerg24-NLAll25-NLAll34-36/resnet50-imagenet_origin-LMerg1-Edge11-LMerg24-NLAll25-NLAll34.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-MParam56-NLAll68-LMerg95-97/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-MParam56-NLAll68-LMerg95.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_LMerg" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_LMerg" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 64), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-LMerg24-NLAll25-LMerg43-45/resnet50-imagenet_origin-LMerg1-Edge11-LMerg24-NLAll25-LMerg43.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-5/resnet50-imagenet_origin-Edge2-NLAll3.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-MDtype55-57/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-MDtype55.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-LMerg24-26/resnet50-imagenet_origin-LMerg1-Edge11-LMerg24.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll57-NLAll90-92/resnet50-imagenet_origin-Edge2-NLAll57-NLAll90.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-49/resnet50-imagenet_origin-LMerg1-Edge14-Edge47.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-MParam77-79/resnet50-imagenet_origin-LMerg1-Edge11-MParam77.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-MParam20-22/resnet50-imagenet_origin-LMerg1-MParam20.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-LMerg23-NLAll63-NLAll73-75/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-LMerg23-NLAll63-NLAll73.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll8-NLAll22-MParam71-NLAll80-82/resnet50-imagenet_origin-Edge2-NLAll8-NLAll22-MParam71-NLAll80.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype12-NLAll16-NLAll32-34/resnet50-imagenet_origin-Edge2-NLAll4-MDtype12-NLAll16-NLAll32.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 2048), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-MParam56-58/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-MParam56.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll8-MDtype72-74/resnet50-imagenet_origin-Edge2-NLAll8-MDtype72.h5 FAILED!!!!
+"avg_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-LMerg15-NLAll45-47/resnet50-imagenet_origin-LMerg1-Edge14-LMerg15-NLAll45.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-MDtype19-MDims76-78/resnet50-imagenet_origin-LMerg1-Edge14-MDtype19-MDims76.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-MParam59-NLAll83-85/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-MParam59-NLAll83.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 3), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-MParam18-NLAll85-LMerg94-96/resnet50-imagenet_origin-LMerg1-Edge11-MParam18-NLAll85-LMerg94.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-MParam59-61/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-MParam59.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 28, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-3/resnet50-imagenet_origin-LMerg1.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-LMerg23-NLAll63-65/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-LMerg23-NLAll63.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-Edge54-NLAll84-86/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-Edge54-NLAll84.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-NLAll48-50/resnet50-imagenet_origin-LMerg1-NLAll48.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-MParam82-84/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-MParam82.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-LMerg17-LMerg39-41/resnet50-imagenet_origin-LMerg1-LMerg17-LMerg39.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-MDims61-NLAll78-MDtype96-98/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-MDims61-NLAll78-MDtype96.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-MDims61-NLAll78-80/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-MDims61-NLAll78.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-LMerg36-38/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-LMerg36.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-LMerg15-17/resnet50-imagenet_origin-LMerg1-Edge14-LMerg15.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-MDtype40-NLAll86-NLAll88-90/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-MDtype40-NLAll86-NLAll88.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll8-NLAll22-MParam71-73/resnet50-imagenet_origin-Edge2-NLAll8-NLAll22-MParam71.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-LMerg24-NLAll25-27/resnet50-imagenet_origin-LMerg1-Edge11-LMerg24-NLAll25.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-MDims61-NLAll78-NLAll81-83/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-MDims61-NLAll78-NLAll81.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-MParam56-NLAll68-70/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-MParam56-NLAll68.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 64), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-MParam59-SpecialI93-95/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll46-MParam59-SpecialI93.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MParam_copy_SpecialI" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MParam_copy_SpecialI" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 28, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-MParam89-91/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-MParam89.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-Edge54-56/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-Edge54.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge11-13/resnet50-imagenet_origin-LMerg1-Edge11.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44-46/resnet50-imagenet_origin-Edge2-NLAll4-MParam6-SpecialI7-MShape38-NLAll44.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-MDtype40-42/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-MDtype40.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-16/resnet50-imagenet_origin-LMerg1-Edge14.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-LMerg23-25/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-LMerg23.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-Edge54-NLAll99-101/resnet50-imagenet_origin-LMerg1-Edge14-Edge47-Edge54-NLAll99.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 64), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-MDtype40-NLAll86-88/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-NLAll37-MDtype40-NLAll86.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-LMerg36-MDtype97-99/resnet50-imagenet_origin-Edge2-NLAll3-MDtype9-LMerg36-MDtype97.h5 FAILED!!!!
+tensor(): argument 'device' must be torch.device, not Attribute
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll8-NLAll22-24/resnet50-imagenet_origin-Edge2-NLAll8-NLAll22.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll8-NLAll22-MParam71-NLAll80-MDtype92-94/resnet50-imagenet_origin-Edge2-NLAll8-NLAll22-MParam71-NLAll80-MDtype92.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/resnet50/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-NLAll26-28/resnet50-imagenet_origin-Edge2-NLAll4-MDtype5-NLAll26.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))

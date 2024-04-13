@@ -1,0 +1,32 @@
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-NLAll55-57/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MDtype45-NLAll55.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 256), dtype=float32)',)
+  • kwargs={'training': 'False'}
+
+
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MParam33-MDtype46-LMerg71-73/alexnet-cifar10_origin-MParam33-MDtype46-LMerg71.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+
+
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75-77/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-LMerg75.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+
+
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-NLAll79-81/alexnet-cifar10_origin-Edge0-MParam12-MDtype30-MParam63-NLAll79.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+
+
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-MParam33-MDtype46-MParam99-101/alexnet-cifar10_origin-MParam33-MDtype46-MParam99.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+
+
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-NLAll47-49/alexnet-cifar10_origin-Edge0-NLAll6-MParam31-MParam38-NLAll47.h5 FAILED!!!!
+ConvTranspose with non symmetrical padding is not implemented.
+
+
+model path: /data1/pzy/MUTANTS/LEMON/alexnet/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-MDims17-Edge22-MDtype83-85/alexnet-cifar10_origin-Edge0-MDims3-MDtype5-MParam16-MDims17-Edge22-MDtype83.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'

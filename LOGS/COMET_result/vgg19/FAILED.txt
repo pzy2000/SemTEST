@@ -1,0 +1,75 @@
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-MParam89-92/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-MParam89.h5 FAILED!!!!
+Average pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-Edge6-SpecialI16-MParam97-100/vgg19-imagenet_origin-MDtype0-MDims2-Edge6-SpecialI16-MParam97.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam5-MParam43-MShape94-97/vgg19-imagenet_origin-MDtype0-MDims2-MParam5-MParam43-MShape94.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MParam1-Edge29-NLAll47-NLAll93-96/vgg19-imagenet_origin-MParam1-Edge29-NLAll47-NLAll93.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-28/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26.h5 FAILED!!!!
+Average pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims10-MParam25-27/vgg19-imagenet_origin-MDtype0-MDims10-MParam25.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-MDims48-MParam61-LMerg62-64/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-MDims48-MParam61-LMerg62.h5 FAILED!!!!
+"softmax_kernel_impl" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-LMerg36-MDtype77-80/vgg19-imagenet_origin-MDtype0-LMerg36-MDtype77.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MDims27-29/vgg19-imagenet_origin-MDtype0-MDims2-MDims27.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims10-12/vgg19-imagenet_origin-MDtype0-MDims10.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-Edge6-SpecialI16-18/vgg19-imagenet_origin-MDtype0-MDims2-Edge6-SpecialI16.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-MDims48-MDims75-MDtype95-98/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-MDims48-MDims75-MDtype95.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MDtype21-MDtype76-79/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MDtype21-MDtype76.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-NLAll60-62/vgg19-imagenet_origin-MDtype0-MDims2-NLAll60.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-NLAll46-SpecialI67-69/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-NLAll46-SpecialI67.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-NLAll60-MDtype78-81/vgg19-imagenet_origin-MDtype0-MDims2-NLAll60-MDtype78.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-NLAll13-NLAll31-LMerg70-72/vgg19-imagenet_origin-MDtype0-MDims2-NLAll13-NLAll31-LMerg70.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_NLAll_copy_LMerg" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_NLAll_copy_LMerg" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 112, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam8-Edge32-34/vgg19-imagenet_origin-MDtype0-MDims2-MParam8-Edge32.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-MDtype35-37/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-MDtype35.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MShape14-16/vgg19-imagenet_origin-MDtype0-MShape14.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-2/vgg19-imagenet_origin-MDtype0.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam8-Edge64-66/vgg19-imagenet_origin-MDtype0-MDims2-MParam8-Edge64.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MDtype21-LMerg22-LMerg99-102/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MDtype21-LMerg22-LMerg99.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-SpecialI17-19/vgg19-imagenet_origin-MDtype0-MDims2-SpecialI17.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MParam20-MParam49-51/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MParam20-MParam49.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MParam68-70/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MParam68.h5 FAILED!!!!
+Average pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MParam20-Edge73-76/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MParam20-Edge73.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MShape37-NLAll82-85/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MShape37-NLAll82.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MDtype21-LMerg22-24/vgg19-imagenet_origin-MDtype0-MDims2-MParam7-NLAll15-MDtype21-LMerg22.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims2-NLAll13-15/vgg19-imagenet_origin-MDtype0-MDims2-NLAll13.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 112, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype0-MDims10-MParam25-SpecialI84-87/vgg19-imagenet_origin-MDtype0-MDims10-MParam25-SpecialI84.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/vgg19/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-MDims48-MDims75-78/vgg19-imagenet_origin-MDtype4-NLAll9-MDtype24-MDims26-MDims48-MDims75.h5 FAILED!!!!

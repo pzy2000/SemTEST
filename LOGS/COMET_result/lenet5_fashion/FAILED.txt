@@ -1,0 +1,114 @@
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-NLAll30-LMerg38-Edge63-NLAll90-92/lenet5-fashion-mnist_origin-NLAll30-LMerg38-Edge63-NLAll90.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_2" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_2" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 32), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-NLAll30-MShape32-MParam39-LMerg67-69/lenet5-fashion-mnist_origin-NLAll30-MShape32-MParam39-LMerg67.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims0-LMerg25-NLAll28-30/lenet5-fashion-mnist_origin-MDims0-LMerg25-NLAll28.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 28, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-NLAll30-MShape32-34/lenet5-fashion-mnist_origin-NLAll30-MShape32.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims0-LMerg25-NLAll28-MShape75-77/lenet5-fashion-mnist_origin-MDims0-LMerg25-NLAll28-MShape75.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MShape" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MShape" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 28, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MShape3-LMerg9-MDims24-MParam40-42/lenet5-fashion-mnist_origin-MDims1-MShape3-LMerg9-MDims24-MParam40.h5 FAILED!!!!
+sum() received an invalid combination of arguments - got (Proxy, keepdim=int, dim=list), but expected one of:
+ * (Tensor input, *, torch.dtype dtype)
+      didn't match because some of the keywords were incorrect: keepdim, dim
+ * (Tensor input, tuple of ints dim, bool keepdim, *, torch.dtype dtype, Tensor out)
+ * (Tensor input, tuple of names dim, bool keepdim, *, torch.dtype dtype, Tensor out)
+
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-NLAll30-MShape32-MParam39-41/lenet5-fashion-mnist_origin-NLAll30-MShape32-MParam39.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims0-MParam4-MDtype19-NLAll81-NLAll93-95/lenet5-fashion-mnist_origin-MDims0-MParam4-MDtype19-NLAll81-NLAll93.h5 FAILED!!!!
+tensor(): argument 'device' must be torch.device, not Attribute
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-NLAll30-LMerg38-40/lenet5-fashion-mnist_origin-NLAll30-LMerg38.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-NLAll47-NLAll61-63/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-NLAll47-NLAll61.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims0-MParam4-MDtype19-MShape89-91/lenet5-fashion-mnist_origin-MDims0-MParam4-MDtype19-MShape89.h5 FAILED!!!!
+torch.Size() takes an iterable of 'int' (item 1 is 'Proxy')
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-MParam73-75/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-MParam73.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-NLAll30-LMerg38-Edge63-65/lenet5-fashion-mnist_origin-NLAll30-LMerg38-Edge63.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-18/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MShape3-MDtype6-LMerg82-84/lenet5-fashion-mnist_origin-MDims1-MShape3-MDtype6-LMerg82.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-LMerg58-60/lenet5-fashion-mnist_origin-MDims1-LMerg58.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-NLAll30-32/lenet5-fashion-mnist_origin-NLAll30.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MShape3-MDtype6-8/lenet5-fashion-mnist_origin-MDims1-MShape3-MDtype6.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-Edge7-NLAll18-NLAll21-23/lenet5-fashion-mnist_origin-Edge7-NLAll18-NLAll21.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims0-LMerg25-NLAll28-MDtype99-101/lenet5-fashion-mnist_origin-MDims0-LMerg25-NLAll28-MDtype99.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 28, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MShape3-LMerg9-MDims24-MParam40-MParam49-51/lenet5-fashion-mnist_origin-MDims1-MShape3-LMerg9-MDims24-MParam40-MParam49.h5 FAILED!!!!
+sum() received an invalid combination of arguments - got (Proxy, keepdim=int, dim=list), but expected one of:
+ * (Tensor input, *, torch.dtype dtype)
+      didn't match because some of the keywords were incorrect: keepdim, dim
+ * (Tensor input, tuple of ints dim, bool keepdim, *, torch.dtype dtype, Tensor out)
+ * (Tensor input, tuple of names dim, bool keepdim, *, torch.dtype dtype, Tensor out)
+
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MShape3-MDtype6-SpecialI10-12/lenet5-fashion-mnist_origin-MDims1-MShape3-MDtype6-SpecialI10.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-NLAll30-MShape32-MDtype72-74/lenet5-fashion-mnist_origin-NLAll30-MShape32-MDtype72.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-NLAll47-49/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-NLAll47.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims0-MParam4-MParam14-MParam50-NLAll92-94/lenet5-fashion-mnist_origin-MDims0-MParam4-MParam14-MParam50-NLAll92.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 32), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-SpecialI5-MDims8-NLAll36-38/lenet5-fashion-mnist_origin-SpecialI5-MDims8-NLAll36.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-LMerg2-MParam74-MShape79-81/lenet5-fashion-mnist_origin-LMerg2-MParam74-MShape79.h5 FAILED!!!!
+Calculated padded input size per channel: (6 x 1). Kernel size: (2 x 2). Kernel size can't be greater than actual input size
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-SpecialI5-MDims8-Edge17-NLAll62-64/lenet5-fashion-mnist_origin-SpecialI5-MDims8-Edge17-NLAll62.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='SparseMatMul', version=15))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-Edge42-44/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-Edge42.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-NLAll84-86/lenet5-fashion-mnist_origin-MDims1-MDtype15-NLAll84.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-17/lenet5-fashion-mnist_origin-MDims1-MDtype15.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims0-MParam4-MDtype19-NLAll81-83/lenet5-fashion-mnist_origin-MDims0-MParam4-MDtype19-NLAll81.h5 FAILED!!!!
+tensor(): argument 'device' must be torch.device, not Attribute
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-NLAll47-NLAll61-LMerg77-79/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-NLAll47-NLAll61-LMerg77.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_fashion/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-Edge42-MDtype56-58/lenet5-fashion-mnist_origin-MDims1-MDtype15-MDtype16-Edge42-MDtype56.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'

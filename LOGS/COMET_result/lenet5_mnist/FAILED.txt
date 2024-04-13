@@ -1,0 +1,96 @@
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-NLAll28-30/lenet5-mnist_origin-LMerg17-NLAll28.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-MParam31-33/lenet5-mnist_origin-LMerg17-MParam31.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-MParam31-Edge73-75/lenet5-mnist_origin-LMerg17-MParam31-Edge73.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-MParam31-MDtype64-66/lenet5-mnist_origin-LMerg17-MParam31-MDtype64.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-NLAll28-MDtype93-95/lenet5-mnist_origin-LMerg17-NLAll28-MDtype93.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-MDtype55-57/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-MDtype55.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-NLAll97-99/lenet5-mnist_origin-MDtype0-MDims1-MParam2-NLAll97.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam21-MDtype43-45/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam21-MDtype43.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-NLAll76-MParam89-91/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-NLAll76-MParam89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-32/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll65-MParam78-MDims81-83/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll65-MParam78-MDims81.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-NLAll76-78/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-NLAll76.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-MDims37-39/lenet5-mnist_origin-LMerg17-MDims37.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam21-Edge49-51/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam21-Edge49.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll65-MDtype86-88/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll65-MDtype86.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-LMerg9-LMerg16-LMerg71-LMerg90-92/lenet5-mnist_origin-MDtype0-MDims1-MParam2-LMerg9-LMerg16-LMerg71-LMerg90.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/lenet5-mnist_origin-MDtype0-MDims1-MParam2-LMerg9-LMerg16-LMerg71-LMerg90.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-MParam45-47/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-MParam45.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-MParam45.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-MParam34-36/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-MParam34.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-17/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15.h5 FAILED!!!!
+Calculated padded input size per channel: (4 x 4). Kernel size: (5 x 5). Kernel size can't be greater than actual input size
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-MParam31-MDims60-62/lenet5-mnist_origin-LMerg17-MParam31-MDims60.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam21-Edge40-42/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam21-Edge40.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-NLAll57-59/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-NLAll57.h5 FAILED!!!!
+Calculated padded input size per channel: (4 x 4). Kernel size: (5 x 5). Kernel size can't be greater than actual input size
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-MParam44-46/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-MParam44.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-NLAll47-49/lenet5-mnist_origin-MDtype0-MDims1-NLAll47.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='LSTM', version=14))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-MParam34-MDims41-43/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-MParam34-MDims41.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDims8-LMerg14-NLAll58-60/lenet5-mnist_origin-MDims8-LMerg14-NLAll58.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-27/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-MParam34-MParam80-82/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-MParam34-MParam80.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDtype12-MParam18-LMerg92-94/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDtype12-MParam18-LMerg92.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-28/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-MDtype46-Edge74-76/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-MDtype46-Edge74.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-NLAll76-MParam89-NLAll95-97/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-NLAll76-MParam89-NLAll95.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll65-MParam78-80/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll65-MParam78.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-54/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam21-23/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam21.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-19/lenet5-mnist_origin-LMerg17.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDims8-LMerg14-16/lenet5-mnist_origin-MDims8-LMerg14.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-MParam34-SpecialI42-44/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MShape15-MParam25-MDtype26-MParam34-SpecialI42.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-NLAll76-MDtype91-93/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-MDims52-NLAll76-MDtype91.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll65-67/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll65.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-LMerg9-NLAll63-NLAll66-68/lenet5-mnist_origin-MDtype0-MDims1-MParam2-LMerg9-NLAll63-NLAll66.h5 FAILED!!!!
+Average pool operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-NLAll28-MDtype93-NLAll96-98/lenet5-mnist_origin-LMerg17-NLAll28-MDtype93-NLAll96.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50-52/lenet5-mnist_origin-MDtype0-MDims1-MParam2-Edge3-MDims7-NLAll50.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-LMerg17-NLAll28-SpecialI39-41/lenet5-mnist_origin-LMerg17-NLAll28-SpecialI39.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/lenet5_mnist/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-MDtype46-48/lenet5-mnist_origin-MDtype0-MDims1-SpecialI5-MParam6-MParam30-MDtype46.h5 FAILED!!!!
+AvgPool with non symmetrical padding is not implemented.

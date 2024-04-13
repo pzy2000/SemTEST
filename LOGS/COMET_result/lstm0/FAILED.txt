@@ -1,0 +1,256 @@
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-35/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-SpecialI59-61/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-SpecialI59.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-Edge82-84/lstm0-sinewave_origin-MParam0-MParam5-Edge82.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-5/lstm0-sinewave_origin-MParam0-MParam3.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-NLAll25-LMerg47-49/lstm0-sinewave_origin-MParam0-NLAll25-LMerg47.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-MParam16-SpecialI43-45/lstm0-sinewave_origin-MParam0-MParam3-MParam16-SpecialI43.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam37-39/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam37.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-Edge29-31/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-Edge29.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MParam30-32/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MParam30.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll48-MParam68-NLAll76-78/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll48-MParam68-NLAll76.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MDims18-LMerg27-29/lstm0-sinewave_origin-MParam0-MDtype6-MDims18-LMerg27.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-7/lstm0-sinewave_origin-MParam0-MParam5.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MDims18-LMerg27-MShape60-62/lstm0-sinewave_origin-MParam0-MDtype6-MDims18-LMerg27-MShape60.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-NLAll25-MParam51-Edge72-74/lstm0-sinewave_origin-MParam0-NLAll25-MParam51-Edge72.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam1-3/lstm0-sinewave_origin-MParam1.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-28/lstm0-sinewave_origin-MParam0-MParam5-NLAll26.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-LMerg34-SpecialI50-52/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-LMerg34-SpecialI50.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-NLAll69-71/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-NLAll69.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MDims18-Edge70-72/lstm0-sinewave_origin-MParam0-MDtype6-MDims18-Edge70.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-1/lstm0-sinewave_origin.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-LMerg49-51/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-LMerg49.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-MParam66-Edge88-90/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-MParam66-Edge88.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-MParam54-MShape87-89/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-MParam54-MShape87.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-MParam16-18/lstm0-sinewave_origin-MParam0-MParam3-MParam16.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-NLAll25-MParam51-53/lstm0-sinewave_origin-MParam0-NLAll25-MParam51.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-MDims53-55/lstm0-sinewave_origin-MParam0-MShape11-MDims53.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MShape91-93/lstm0-sinewave_origin-MParam0-MDtype6-MShape91.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-NLAll21-MParam23-Edge92-94/lstm0-sinewave_origin-NLAll21-MParam23-Edge92.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-MParam31-MShape71-73/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-MParam31-MShape71.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-MParam66-68/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-MParam66.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MParam30-NLAll45-47/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MParam30-NLAll45.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-NLAll25-27/lstm0-sinewave_origin-MParam0-NLAll25.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-2/lstm0-sinewave_origin-MParam0.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-22/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-NLAll44-MShape67-69/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-NLAll44-MShape67.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MShape" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MShape" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll48-50/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll48.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-NLAll21-MParam23-Edge93-95/lstm0-sinewave_origin-NLAll21-MParam23-Edge93.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll46-MParam57-59/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll46-MParam57.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-MParam31-33/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-MParam31.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-Edge83-85/lstm0-sinewave_origin-MParam0-MParam5-MParam14-Edge83.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-MParam54-MShape87-MDims96-98/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-MParam54-MShape87-MDims96.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MDims41-43/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MDims41.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-17/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-MDtype75-77/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-MDtype75.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-16/lstm0-sinewave_origin-MParam0-MParam5-MParam14.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-SpecialI42-44/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-SpecialI42.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam1-SpecialI52-54/lstm0-sinewave_origin-MParam1-SpecialI52.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-NLAll21-23/lstm0-sinewave_origin-NLAll21.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-8/lstm0-sinewave_origin-MParam0-MDtype6.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-MParam54-56/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-MParam54.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims63-65/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims63.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-MDims65-67/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-MDims65.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-MParam16-MParam28-30/lstm0-sinewave_origin-MParam0-MParam3-MParam16-MParam28.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-NLAll19-MParam35-37/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-NLAll19-MParam35.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-LMerg34-36/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-LMerg34.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-Edge36-38/lstm0-sinewave_origin-MParam0-MParam5-MParam14-Edge36.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-MParam58-60/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-MParam58.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-11/lstm0-sinewave_origin-MParam0-MDtype6-MShape9.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-NLAll19-21/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-NLAll19.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-MParam31-NLAll81-83/lstm0-sinewave_origin-MParam0-MDtype6-MShape9-MParam31-NLAll81.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-NLAll25-MParam51-MDims97-99/lstm0-sinewave_origin-MParam0-NLAll25-MParam51-MDims97.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MShape95-97/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MShape95.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MParam78-80/lstm0-sinewave_origin-MParam0-MDtype6-MParam78.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam1-LMerg39-41/lstm0-sinewave_origin-MParam1-LMerg39.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MDtype7-9/lstm0-sinewave_origin-MParam0-MDtype6-MDtype7.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll48-MParam68-70/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll48-MParam68.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MDtype8-10/lstm0-sinewave_origin-MDtype8.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-MParam84-86/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-MParam84.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-NLAll69-MShape86-88/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-NLAll69-MShape86.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-34/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-NLAll21-Edge74-76/lstm0-sinewave_origin-NLAll21-Edge74.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-15/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-13/lstm0-sinewave_origin-MParam0-MShape11.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll46-48/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll46.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-MParam55-57/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-MParam55.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MParam" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MParam" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-MParam84-Edge85-87/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-MParam84-Edge85.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MParam_copy_Edge" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MParam_copy_Edge" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-14/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam1-MParam64-66/lstm0-sinewave_origin-MParam1-MParam64.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MDims24-MDtype62-64/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MDims24-MDtype62.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-NLAll21-MParam23-Edge92-NLAll99-101/lstm0-sinewave_origin-NLAll21-MParam23-Edge92-NLAll99.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-NLAll44-LMerg77-79/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-NLAll44-LMerg77.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_LMerg" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_LMerg" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-MDtype75-NLAll79-81/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-MDtype75-NLAll79.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-MParam54-MShape87-MDims96-MDims98-100/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MParam15-NLAll33-MParam54-MShape87-MDims96-MDims98.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-24/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-LMerg49-MShape90-92/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-LMerg49-MShape90.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-6/lstm0-sinewave_origin-MParam0-MParam3-Edge4.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-NLAll44-46/lstm0-sinewave_origin-MParam0-MParam5-NLAll26-NLAll44.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-MParam16-MParam28-MParam61-63/lstm0-sinewave_origin-MParam0-MParam3-MParam16-MParam28-MParam61.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam1-SpecialI2-4/lstm0-sinewave_origin-MParam1-SpecialI2.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-NLAll21-MParam23-25/lstm0-sinewave_origin-NLAll21-MParam23.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam1-LMerg10-12/lstm0-sinewave_origin-MParam1-LMerg10.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-NLAll21-MParam23-MParam89-91/lstm0-sinewave_origin-NLAll21-MParam23-MParam89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MDims24-26/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MDims24.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MDtype6-MDims18-20/lstm0-sinewave_origin-MParam0-MDtype6-MDims18.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MParam30-NLAll45-LMerg56-58/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-MParam30-NLAll45-LMerg56.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll48-MParam68-MShape94-96/lstm0-sinewave_origin-MParam0-MParam5-MParam14-NLAll48-MParam68-MShape94.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape40-42/lstm0-sinewave_origin-MParam0-MShape40.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-LMerg34-MDtype80-82/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-LMerg34-MDtype80.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-NLAll38-40/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-NLAll38.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17-19/lstm0-sinewave_origin-MParam0-MParam3-Edge4-Edge13-MParam17.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm0/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-NLAll73-75/lstm0-sinewave_origin-MParam0-MShape11-SpecialI12-MShape20-MDims22-LMerg32-NLAll73.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))

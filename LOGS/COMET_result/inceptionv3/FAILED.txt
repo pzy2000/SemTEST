@@ -1,0 +1,74 @@
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-LMerg56-MDtype61-64/inception.v3-imagenet_origin-MDtype1-LMerg56-MDtype61.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-SpecialI0-MParam40-43/inception.v3-imagenet_origin-SpecialI0-MParam40.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-MDtype17-Edge22-MParam27-Edge28-MDtype83-86/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-MDtype17-Edge22-MParam27-Edge28-MDtype83.h5 FAILED!!!!
+"softmax_kernel_impl" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-MDtype17-Edge22-MParam27-MDims58-61/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-MDtype17-Edge22-MParam27-MDims58.h5 FAILED!!!!
+"softmax_kernel_impl" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-MDims10-NLAll68-71/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-MDims10-NLAll68.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_2" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_2" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 8, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-SpecialI0-NLAll14-MDims18-MParam42-MDtype95-98/inception.v3-imagenet_origin-SpecialI0-NLAll14-MDims18-MParam42-MDtype95.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDims_copy_MParam_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDims_copy_MParam_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 17, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-Edge7-Edge45-NLAll65-Edge66-Edge96-99/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-Edge7-Edge45-NLAll65-Edge66-Edge96.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-SpecialI0-NLAll14-MDtype21-24/inception.v3-imagenet_origin-SpecialI0-NLAll14-MDtype21.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 17, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MDims30-MDtype35-38/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MDims30-MDtype35.h5 FAILED!!!!
+"avg_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-SpecialI0-MParam40-MShape73-76/inception.v3-imagenet_origin-SpecialI0-MParam40-MShape73.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MParam20-LMerg26-29/inception.v3-imagenet_origin-MDtype1-MParam20-LMerg26.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-NLAll9-11/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-NLAll9.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-NLAll9-LMerg50-53/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-NLAll9-LMerg50.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MParam75-78/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MParam75.h5 FAILED!!!!
+"avg_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-Edge7-SpecialI54-57/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-Edge7-SpecialI54.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MDtype19-LMerg38-MDtype48-51/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MDtype19-LMerg38-MDtype48.h5 FAILED!!!!
+"avg_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-SpecialI0-MShape3-MDtype15-NLAll25-28/inception.v3-imagenet_origin-SpecialI0-MShape3-MDtype15-NLAll25.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='SparseMatMul', version=15))
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MDtype19-LMerg39-NLAll63-Edge90-93/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MDtype19-LMerg39-NLAll63-Edge90.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_Edge" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_Edge" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 149, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-NLAll9-MDtype33-36/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-NLAll9-MDtype33.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-MDims10-12/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-MDims10.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-NLAll9-MDims51-54/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-NLAll9-MDims51.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-Edge7-Edge45-48/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-Edge7-Edge45.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-Edge7-Edge45-NLAll65-68/inception.v3-imagenet_origin-MDtype1-MDtype2-NLAll6-Edge7-Edge45-NLAll65.h5 FAILED!!!!
+BatchNorm operation with spatial rank == -2 is not implemented
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MDtype19-LMerg39-42/inception.v3-imagenet_origin-MDtype1-MDtype2-MDims13-MDtype19-LMerg39.h5 FAILED!!!!
+"avg_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/inceptionv3/inception.v3-imagenet_origin-SpecialI0-MShape3-MDtype15-NLAll25-MDtype43-46/inception.v3-imagenet_origin-SpecialI0-MShape3-MDtype15-NLAll25-MDtype43.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='SparseMatMul', version=15))

@@ -1,0 +1,204 @@
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR3-18.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS7-43.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR6-55.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI17-66.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF7-45.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI1-3.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS7-39.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB16-90.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF12-74.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS8-49.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS16-100.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS6-31.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB4-24.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB3-15.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI6-13.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS3-14.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS13-69.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB11-77.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB12-79.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR13-91.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS2-4.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS9-50.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF17-97.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI14-52.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF1-1.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF5-26.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF15-86.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR2-17.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI19-87.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI12-36.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB2-9.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI20-88.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR1-12.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF10-65.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI10-34.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI11-35.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB17-94.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS14-101.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR8-67.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB10-76.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS11-63.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF18-99.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI4-8.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF4-21.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI2-5.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI18-72.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS10-57.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS11-61.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS12-75.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR12-83.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI8-23.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR7-56.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS1-19.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS6-40.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF8-51.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR9-68.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS8-47.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB1-6.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB15-89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS12-64.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS3-25.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF16-95.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR5-48.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS2-20.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR4-41.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI16-58.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR15-96.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR10-70.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS13-93.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB14-85.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS4-29.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB13-81.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB8-46.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB5-30.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB6-32.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI9-33.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF14-80.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS15-84.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS10-59.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR11-71.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI5-11.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-LR14-92.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF9-62.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF11-73.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF13-78.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI3-7.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI15-53.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF6-37.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI13-44.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF2-10.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB9-60.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI21-98.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NEB7-42.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS5-38.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NAI7-22.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS4-27.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-WS5-28.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-GF3-16.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS9-54.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS14-82.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm0-sinewave/mut_model/lstm0-sinewave_origin0-NS1-2.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))

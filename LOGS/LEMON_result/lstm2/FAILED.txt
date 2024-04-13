@@ -1,0 +1,204 @@
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB5-25.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS3-17.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS4-9.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS6-33.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB12-49.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB4-23.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI1-4.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR13-100.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS15-90.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI6-24.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS20-85.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR1-18.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI9-50.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS12-75.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS11-74.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS14-78.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR8-60.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS16-97.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS21-89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI4-16.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB2-11.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB21-92.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB6-36.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS6-13.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS1-1.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-GF4-40.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR11-82.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS16-62.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB9-43.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB22-94.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI5-21.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB25-99.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS8-30.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB16-65.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS22-95.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS11-44.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS17-67.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB17-66.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB19-87.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI7-26.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS10-37.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB14-57.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR2-19.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS3-8.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS18-68.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS8-71.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI15-88.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-GF2-28.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-GF8-84.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS15-61.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB20-91.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-GF7-64.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR9-69.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB3-22.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR10-76.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI16-93.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI11-59.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB23-96.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS2-10.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS12-45.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB24-98.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI10-52.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB15-58.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB13-55.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI12-70.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR4-31.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS2-3.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-GF5-56.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB10-46.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB11-47.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB18-80.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS7-48.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS5-27.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI14-86.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB7-38.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR5-34.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI8-42.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS5-12.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS1-6.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS23-101.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS4-20.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR7-51.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS9-32.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS14-54.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS10-73.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-GF6-63.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR6-35.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR12-83.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB1-2.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS13-77.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NEB8-41.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-LR3-29.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI3-14.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS19-79.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NS9-72.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI2-5.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS7-15.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-WS13-53.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-GF1-7.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-NAI13-81.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/zmx/Lemon/lstm2-price/mut_model/lstm2-price_origin0-GF3-39.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))

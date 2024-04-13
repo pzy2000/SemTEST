@@ -1,0 +1,214 @@
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MShape36-38/lstm2-price_origin-MParam0-MParam2-MShape36.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-MDims63-MShape80-NLAll96-MDims98-100/lstm2-price_origin-LMerg1-NLAll60-MDims63-MShape80-NLAll96-MDims98.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-MParam72-74/lstm2-price_origin-LMerg1-NLAll60-MParam72.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDims5-7/lstm2-price_origin-Edge3-MDims5.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MDims12-14/lstm2-price_origin-MParam0-MParam2-MDims12.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-MShape76-78/lstm2-price_origin-LMerg1-MShape76.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam41-MDtype47-NLAll92-94/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam41-MDtype47-NLAll92.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-1/lstm2-price_origin.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-4/lstm2-price_origin-MParam0-MParam2.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-MParam43-45/lstm2-price_origin-MParam0-MParam16-MParam43.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg39-41/lstm2-price_origin-LMerg39.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge7-MParam73-MParam74-NLAll81-83/lstm2-price_origin-Edge3-Edge7-MParam73-MParam74-NLAll81.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-SpecialI6-8/lstm2-price_origin-Edge3-SpecialI6.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-NLAll32-Edge94-96/lstm2-price_origin-MParam0-MParam2-NLAll27-NLAll32-Edge94.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-3/lstm2-price_origin-LMerg1.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MDtype22-MShape51-53/lstm2-price_origin-MParam0-MDtype22-MShape51.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDtype49-51/lstm2-price_origin-Edge3-MDtype49.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam70-72/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam70.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge46-48/lstm2-price_origin-Edge46.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-LMerg8-LMerg57-59/lstm2-price_origin-Edge3-LMerg8-LMerg57.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-LMerg17-NLAll38-40/lstm2-price_origin-MParam0-MParam16-LMerg17-NLAll38.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MDims4-6/lstm2-price_origin-MDims4.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MDims4-MShape28-MParam54-MParam55-57/lstm2-price_origin-MDims4-MShape28-MParam54-MParam55.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MParam75-77/lstm2-price_origin-Edge3-MParam75.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDtype24-26/lstm2-price_origin-Edge3-MDtype24.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg19-MParam87-NLAll99-101/lstm2-price_origin-LMerg19-MParam87-NLAll99.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-29/lstm2-price_origin-MParam0-MParam2-NLAll27.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge7-MParam53-55/lstm2-price_origin-Edge3-Edge7-MParam53.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg19-MParam87-89/lstm2-price_origin-LMerg19-MParam87.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg20-MDtype78-80/lstm2-price_origin-LMerg20-MDtype78.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MShape34-36/lstm2-price_origin-MParam0-MParam2-MShape34.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge7-MParam73-MParam74-76/lstm2-price_origin-Edge3-Edge7-MParam73-MParam74.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-LMerg86-88/lstm2-price_origin-LMerg1-NLAll60-LMerg86.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDims5-NLAll82-84/lstm2-price_origin-Edge3-MDims5-NLAll82.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-18/lstm2-price_origin-MParam0-MParam16.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MDtype22-MShape50-52/lstm2-price_origin-MParam0-MDtype22-MShape50.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-LMerg17-Edge66-68/lstm2-price_origin-MParam0-MParam16-LMerg17-Edge66.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge7-Edge48-50/lstm2-price_origin-Edge3-Edge7-Edge48.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam41-MParam93-95/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam41-MParam93.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-LMerg17-MShape30-MParam42-44/lstm2-price_origin-MParam0-MParam16-LMerg17-MShape30-MParam42.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-MDims63-MDims89-MParam97-99/lstm2-price_origin-LMerg1-NLAll60-MDims63-MDims89-MParam97.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-NLAll32-LMerg68-70/lstm2-price_origin-MParam0-MParam2-NLAll27-NLAll32-LMerg68.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MShape23-NLAll29-MDims90-92/lstm2-price_origin-MParam0-MParam2-MShape23-NLAll29-MDims90.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-LMerg25-27/lstm2-price_origin-MParam0-MParam16-LMerg25.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam83-85/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam83.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MDims62-64/lstm2-price_origin-MParam0-MDims62.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg19-MDims31-33/lstm2-price_origin-LMerg19-MDims31.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge7-9/lstm2-price_origin-Edge3-Edge7.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDtype24-NLAll69-NLAll84-86/lstm2-price_origin-Edge3-MDtype24-NLAll69-NLAll84.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDims5-MShape61-63/lstm2-price_origin-Edge3-MDims5-MShape61.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam41-43/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam41.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDtype24-NLAll69-NLAll84-MDtype95-97/lstm2-price_origin-Edge3-MDtype24-NLAll69-NLAll84-MDtype95.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MDims4-MShape28-MParam54-56/lstm2-price_origin-MDims4-MShape28-MParam54.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-LMerg17-MParam58-MDtype85-87/lstm2-price_origin-MParam0-MParam16-LMerg17-MParam58-MDtype85.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-SpecialI10-12/lstm2-price_origin-MParam0-SpecialI10.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-LMerg8-MParam37-MDtype88-90/lstm2-price_origin-Edge3-LMerg8-MParam37-MDtype88.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MDtype22-24/lstm2-price_origin-MParam0-MDtype22.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-SpecialI6-MDims45-47/lstm2-price_origin-Edge3-SpecialI6-MDims45.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-LMerg8-10/lstm2-price_origin-Edge3-LMerg8.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-MDims40-42/lstm2-price_origin-MParam0-MParam16-MDims40.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MShape23-NLAll29-31/lstm2-price_origin-MParam0-MParam2-MShape23-NLAll29.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-LMerg17-MShape30-32/lstm2-price_origin-MParam0-MParam16-LMerg17-MShape30.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-MDims63-65/lstm2-price_origin-LMerg1-NLAll60-MDims63.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-SpecialI13-15/lstm2-price_origin-Edge3-SpecialI13.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MDims4-MShape28-30/lstm2-price_origin-MDims4-MShape28.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDtype24-NLAll69-71/lstm2-price_origin-Edge3-MDtype24-NLAll69.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-LMerg33-35/lstm2-price_origin-MParam0-MParam2-LMerg33.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDims5-SpecialI11-13/lstm2-price_origin-Edge3-MDims5-SpecialI11.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-LMerg33-MParam59-61/lstm2-price_origin-MParam0-MParam2-LMerg33-MParam59.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MDims4-MShape26-NLAll44-46/lstm2-price_origin-MDims4-MShape26-NLAll44.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-MDims63-MShape80-NLAll96-98/lstm2-price_origin-LMerg1-NLAll60-MDims63-MShape80-NLAll96.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg20-MDtype52-54/lstm2-price_origin-LMerg20-MDtype52.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-MDims63-NLAll79-81/lstm2-price_origin-LMerg1-NLAll60-MDims63-NLAll79.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 1, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-5/lstm2-price_origin-Edge3.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam41-MDtype47-49/lstm2-price_origin-MParam0-MParam2-NLAll27-MParam41-MDtype47.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MShape23-MShape64-66/lstm2-price_origin-MParam0-MParam2-MShape23-MShape64.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-MParam43-MDims67-69/lstm2-price_origin-MParam0-MParam16-MParam43-MDims67.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-Edge21-23/lstm2-price_origin-MParam0-Edge21.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-LMerg17-19/lstm2-price_origin-MParam0-MParam16-LMerg17.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-NLAll27-NLAll32-34/lstm2-price_origin-MParam0-MParam2-NLAll27-NLAll32.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge7-LMerg18-20/lstm2-price_origin-Edge3-Edge7-LMerg18.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge7-MParam73-75/lstm2-price_origin-Edge3-Edge7-MParam73.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MShape23-MParam56-58/lstm2-price_origin-MParam0-MParam2-MShape23-MParam56.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-2/lstm2-price_origin-MParam0.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg19-21/lstm2-price_origin-LMerg19.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-SpecialI6-Edge15-17/lstm2-price_origin-Edge3-SpecialI6-Edge15.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-LMerg8-MParam37-39/lstm2-price_origin-Edge3-LMerg8-MParam37.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge14-16/lstm2-price_origin-Edge3-Edge14.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam16-LMerg17-MParam58-60/lstm2-price_origin-MParam0-MParam16-LMerg17-MParam58.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-MDims63-MDims89-91/lstm2-price_origin-LMerg1-NLAll60-MDims63-MDims89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MShape23-25/lstm2-price_origin-MParam0-MParam2-MShape23.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-Edge7-LMerg18-SpecialI77-79/lstm2-price_origin-Edge3-Edge7-LMerg18-SpecialI77.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-SpecialI9-11/lstm2-price_origin-LMerg1-SpecialI9.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg20-MDtype35-37/lstm2-price_origin-LMerg20-MDtype35.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-MDtype24-MDims65-67/lstm2-price_origin-Edge3-MDtype24-MDims65.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MParam0-MParam2-MDims12-MParam71-73/lstm2-price_origin-MParam0-MParam2-MDims12-MParam71.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg20-22/lstm2-price_origin-LMerg20.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-Edge3-SpecialI6-MParam91-93/lstm2-price_origin-Edge3-SpecialI6-MParam91.h5 FAILED!!!!
+tensor(): argument 'device' must be torch.device, not Attribute
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-62/lstm2-price_origin-LMerg1-NLAll60.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-MDims4-MShape26-28/lstm2-price_origin-MDims4-MShape26.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/lstm2/lstm2-price_origin-LMerg1-NLAll60-MDims63-MShape80-82/lstm2-price_origin-LMerg1-NLAll60-MDims63-MShape80.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))

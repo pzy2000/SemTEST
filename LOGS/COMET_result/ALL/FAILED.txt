@@ -1,0 +1,148 @@
+model path: /data1/pzy/MUTANTS/LEMON/ALL/vgg16-imagenet_origin-NLAll44-MParam83-96/vgg16-imagenet_origin-NLAll44-MParam83.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/vgg16-imagenet_origin-NLAll44-57/vgg16-imagenet_origin-NLAll44.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-Edge8-21/lstm2-price_origin-Edge8.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-7/lstm2-price_origin.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-LMerg18-NLAll39-NLAll67-80/lstm0-sinewave_origin-LMerg18-NLAll39-NLAll67.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/xception-imagenet_origin-MParam15-MDtype23-MDtype25-LMerg37-Edge59-72/xception-imagenet_origin-MParam15-MDtype23-MDtype25-LMerg37-Edge59.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lenet5-fashion-mnist_origin-MDtype1-NLAll17-30/lenet5-fashion-mnist_origin-MDtype1-NLAll17.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-LMerg18-NLAll39-MDims96-109/lstm0-sinewave_origin-LMerg18-NLAll39-MDims96.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/alexnet-cifar10_origin-MDims6-LMerg36-49/alexnet-cifar10_origin-MDims6-LMerg36.h5 FAILED!!!!
+tensor(): argument 'device' must be torch.device, not Attribute
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MShape7-20/lstm2-price_origin-MShape7.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/inception.v3-imagenet_origin-LMerg19-MParam68-81/inception.v3-imagenet_origin-LMerg19-MParam68.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lenet5-fashion-mnist_origin-MDtype1-NLAll17-MDims46-MDtype78-91/lenet5-fashion-mnist_origin-MDtype1-NLAll17-MDims46-MDtype78.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/vgg16-imagenet_origin-NLAll53-MParam86-MDtype91-104/vgg16-imagenet_origin-NLAll53-MParam86-MDtype91.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/alexnet-cifar10_origin-MDtype11-MParam64-77/alexnet-cifar10_origin-MDtype11-MParam64.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MShape7-MParam70-83/lstm2-price_origin-MShape7-MParam70.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/alexnet-cifar10_origin-MDtype11-MParam20-33/alexnet-cifar10_origin-MDtype11-MParam20.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-1/lstm0-sinewave_origin.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-LMerg18-MDims26-39/lstm0-sinewave_origin-LMerg18-MDims26.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/resnet50-imagenet_origin-Edge14-MDtype42-NLAll75-88/resnet50-imagenet_origin-Edge14-MDtype42-NLAll75.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 56, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/ALL/xception-imagenet_origin-NLAll5-MDtype33-46/xception-imagenet_origin-NLAll5-MDtype33.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_copy_MDtype" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_copy_MDtype" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 728), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/ALL/resnet50-imagenet_origin-Edge14-MDtype27-MParam58-NLAll82-95/resnet50-imagenet_origin-Edge14-MDtype27-MParam58-NLAll82.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 28, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-LMerg18-MShape22-35/lstm0-sinewave_origin-LMerg18-MShape22.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/mobilenet-imagenet_origin-NLAll62-NLAll80-93/mobilenet-imagenet_origin-NLAll62-NLAll80.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lenet5-fashion-mnist_origin-MDtype1-14/lenet5-fashion-mnist_origin-MDtype1.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-Edge8-MShape30-43/lstm2-price_origin-Edge8-MShape30.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MShape7-MDims55-68/lstm2-price_origin-MShape7-MDims55.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/densenet121-imagenet_origin-Edge21-NLAll74-87/densenet121-imagenet_origin-Edge21-NLAll74.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-MDims97-110/lstm0-sinewave_origin-MDims97.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/alexnet-cifar10_origin-MDtype11-MParam72-85/alexnet-cifar10_origin-MDtype11-MParam72.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-LMerg28-41/lstm0-sinewave_origin-LMerg28.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/vgg16-imagenet_origin-NLAll53-MParam86-99/vgg16-imagenet_origin-NLAll53-MParam86.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/inception.v3-imagenet_origin-NLAll52-65/inception.v3-imagenet_origin-NLAll52.h5 FAILED!!!!
+ConvTranspose with non symmetrical padding is not implemented.
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-Edge10-23/lstm0-sinewave_origin-Edge10.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/xception-imagenet_origin-MParam15-MDtype23-MDtype25-LMerg37-50/xception-imagenet_origin-MParam15-MDtype23-MDtype25-LMerg37.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/resnet50-imagenet_origin-Edge14-MDtype27-NLAll51-64/resnet50-imagenet_origin-Edge14-MDtype27-NLAll51.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='SparseMatMul', version=15))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/vgg16-imagenet_origin-NLAll53-66/vgg16-imagenet_origin-NLAll53.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MShape7-MParam70-NLAll85-MDtype89-Edge93-106/lstm2-price_origin-MShape7-MParam70-NLAll85-MDtype89-Edge93.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MShape7-MParam70-NLAll85-98/lstm2-price_origin-MShape7-MParam70-NLAll85.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-Edge10-NLAll49-62/lstm0-sinewave_origin-Edge10-NLAll49.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer_1" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer_1" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lenet5-fashion-mnist_origin-MDtype1-NLAll17-MDims46-MDtype47-60/lenet5-fashion-mnist_origin-MDtype1-NLAll17-MDims46-MDtype47.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lenet5-fashion-mnist_origin-MDtype1-MParam41-MDims95-108/lenet5-fashion-mnist_origin-MDtype1-MParam41-MDims95.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MShape7-MParam70-NLAll81-94/lstm2-price_origin-MShape7-MParam70-NLAll81.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-SpecialI3-16/lstm0-sinewave_origin-SpecialI3.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-Edge8-MDtype31-44/lstm2-price_origin-Edge8-MDtype31.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/resnet50-imagenet_origin-MDims24-MDtype57-NLAll61-74/resnet50-imagenet_origin-MDims24-MDtype57-NLAll61.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MParam40-53/lstm2-price_origin-MParam40.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ReverseSequence', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lenet5-fashion-mnist_origin-MDtype1-NLAll17-MDims46-59/lenet5-fashion-mnist_origin-MDtype1-NLAll17-MDims46.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/xception-imagenet_origin-MParam15-MDtype23-MDtype25-Edge60-MDtype76-89/xception-imagenet_origin-MParam15-MDtype23-MDtype25-Edge60-MDtype76.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-LMerg18-MParam98-111/lstm0-sinewave_origin-LMerg18-MParam98.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-LMerg18-31/lstm0-sinewave_origin-LMerg18.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/mobilenet-imagenet_origin-NLAll62-75/mobilenet-imagenet_origin-NLAll62.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/alexnet-cifar10_origin-MDtype11-24/alexnet-cifar10_origin-MDtype11.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm0-sinewave_origin-LMerg18-NLAll39-52/lstm0-sinewave_origin-LMerg18-NLAll39.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/xception-imagenet_origin-MParam15-MDtype23-MDtype25-LMerg37-NLAll77-90/xception-imagenet_origin-MParam15-MDtype23-MDtype25-LMerg37-NLAll77.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/vgg16-imagenet_origin-NLAll53-MParam86-MDtype91-MDtype99-112/vgg16-imagenet_origin-NLAll53-MParam86-MDtype91-MDtype99.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MShape7-MParam70-NLAll85-MDtype89-MDtype94-107/lstm2-price_origin-MShape7-MParam70-NLAll85-MDtype89-MDtype94.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))
+model path: /data1/pzy/MUTANTS/LEMON/ALL/xception-imagenet_origin-NLAll5-18/xception-imagenet_origin-NLAll5.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 728), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lenet5-fashion-mnist_origin-MDtype1-MParam41-54/lenet5-fashion-mnist_origin-MDtype1-MParam41.h5 FAILED!!!!
+"max_pool2d" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/ALL/lstm2-price_origin-MShape7-MParam70-NLAll85-MDtype89-102/lstm2-price_origin-MShape7-MParam70-NLAll85-MDtype89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='Loop', version=13))

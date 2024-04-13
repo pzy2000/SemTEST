@@ -1,0 +1,127 @@
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-MDtype96-99/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-MDtype96.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-MDtype96.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-LMerg23-MDtype80-83/xception-imagenet_origin-Edge4-LMerg23-MDtype80.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-Edge4-LMerg23-MDtype80.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDims45-NLAll76-78/xception-imagenet_origin-MShape0-SpecialI2-MDims45-NLAll76.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='GlobalMaxPool', version=1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-4/xception-imagenet_origin-MShape0-SpecialI2.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MShape0-SpecialI2.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDims45-Edge46-48/xception-imagenet_origin-MShape0-SpecialI2-MDims45-Edge46.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MShape0-SpecialI2-MDims45-Edge46.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-7/xception-imagenet_origin-MDtype3-Edge5.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MDtype3-Edge5.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge30-MDtype61-63/xception-imagenet_origin-MDtype3-Edge30-MDtype61.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MDtype3-Edge30-MDtype61.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-MDims18-20/xception-imagenet_origin-Edge4-NLAll13-MDims18.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-Edge4-NLAll13-MDims18.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-NLAll9-MShape36-38/xception-imagenet_origin-MShape0-NLAll9-MShape36.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MShape0-NLAll9-MShape36.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-SpecialI68-70/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-SpecialI68.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-SpecialI68.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-MParam38-Edge93-96/xception-imagenet_origin-MDtype3-MParam38-Edge93.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MDtype3-MParam38-Edge93.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-NLAll9-NLAll33-35/xception-imagenet_origin-MShape0-NLAll9-NLAll33.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, None, None, 728), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-MParam57-MDtype63-MDtype74-76/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-MParam57-MDtype63-MDtype74.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-MParam57-MDtype63-MDtype74.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-MShape28-30/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-MShape28.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-MShape28.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape1-LMerg10-Edge25-MDtype29-31/xception-imagenet_origin-MShape1-LMerg10-Edge25-MDtype29.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MShape1-LMerg10-Edge25-MDtype29.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDims45-MDtype58-60/xception-imagenet_origin-MShape0-SpecialI2-MDims45-MDtype58.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MShape0-SpecialI2-MDims45-MDtype58.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-MParam57-MDtype63-MDtype74-NLAll79-81/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-MParam57-MDtype63-MDtype74-NLAll79.h5 FAILED!!!!
+Unable to open proto file: /root/autoconverter/onnx/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-MParam57-MDtype63-MDtype74-NLAll79.onnx. Please check if it is a valid proto. 
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape1-MDtype16-SpecialI59-61/xception-imagenet_origin-MShape1-MDtype16-SpecialI59.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MDtype69-71/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MDtype69.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-NLAll91-MDims99-102/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-NLAll91-MDims99.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-41/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape1-MDtype16-SpecialI72-74/xception-imagenet_origin-MShape1-MDtype16-SpecialI72.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-55/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-LMerg56-NLAll66-68/xception-imagenet_origin-Edge4-NLAll13-LMerg56-NLAll66.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-MParam57-59/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-MParam57.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-15/xception-imagenet_origin-Edge4-NLAll13.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-LMerg56-SpecialI98-101/xception-imagenet_origin-Edge4-NLAll13-LMerg56-SpecialI98.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-LMerg56-58/xception-imagenet_origin-Edge4-NLAll13-LMerg56.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-SpecialI67-69/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-SpecialI67.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-NLAll47-49/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-NLAll47.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-67/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-NLAll70-72/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-NLAll70.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-MShape73-75/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-MShape73.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-NLAll9-MShape36-MDtype92-95/xception-imagenet_origin-MShape0-NLAll9-MShape36-MDtype92.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-43/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-LMerg7-9/xception-imagenet_origin-Edge4-LMerg7.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape1-LMerg10-Edge25-NLAll84-MShape94-97/xception-imagenet_origin-MShape1-LMerg10-Edge25-NLAll84-MShape94.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-SpecialI31-33/xception-imagenet_origin-MDtype3-Edge5-SpecialI31.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-MParam27-29/xception-imagenet_origin-MDtype3-Edge5-MParam27.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape1-LMerg10-Edge25-NLAll84-87/xception-imagenet_origin-MShape1-LMerg10-Edge25-NLAll84.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-MShape44-46/xception-imagenet_origin-MDtype3-Edge5-MShape44.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-LMerg54-MParam88-91/xception-imagenet_origin-Edge4-NLAll13-LMerg54-MParam88.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-MParam38-MShape49-51/xception-imagenet_origin-MDtype3-MParam38-MShape49.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-MDtype8-10/xception-imagenet_origin-MDtype3-MDtype8.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-MParam85-88/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-MDtype41-MParam53-MParam85.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-LMerg54-56/xception-imagenet_origin-Edge4-NLAll13-LMerg54.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge30-32/xception-imagenet_origin-MDtype3-Edge30.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-5/xception-imagenet_origin-MDtype3.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape1-MDtype16-18/xception-imagenet_origin-MShape1-MDtype16.h5 FAILED!!!!
+"max_pool2d_channels_last" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-MDtype86-89/xception-imagenet_origin-MShape0-SpecialI2-MDtype11-LMerg39-Edge65-MDtype86.h5 FAILED!!!!
+('Input shapes should be of type ints, a tuple of ints, or a list of ints, got ', Proxy(getattr_1))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-MDtype24-26/xception-imagenet_origin-MShape0-MDtype24.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-MShape90-93/xception-imagenet_origin-MDtype3-MShape90.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-LMerg56-NLAll66-MDtype89-92/xception-imagenet_origin-Edge4-NLAll13-LMerg56-NLAll66-MDtype89.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-MParam38-40/xception-imagenet_origin-MDtype3-MParam38.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MShape0-NLAll9-MDtype12-NLAll78-80/xception-imagenet_origin-MShape0-NLAll9-MDtype12-NLAll78.h5 FAILED!!!!
+Exception encountered when calling layer "custom_crop_layer" "                 f"(type CustomCropLayer).
+
+unsupported operand type(s) for -: 'NoneType' and 'int'
+
+Call arguments received by layer "custom_crop_layer" "                 f"(type CustomCropLayer):
+  • args=('tf.Tensor(shape=(None, 19, None, None), dtype=float32)',)
+  • kwargs={'training': 'False'}
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-Edge4-NLAll13-LMerg56-NLAll66-MParam77-79/xception-imagenet_origin-Edge4-NLAll13-LMerg56-NLAll66-MParam77.h5 FAILED!!!!
+Converter is not implemented (OperationDescription(domain='', operation_type='ThresholdedRelu', version=10))
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-MShape95-98/xception-imagenet_origin-MDtype3-Edge5-MShape95.h5 FAILED!!!!
+"slow_conv2d_cpu" not implemented for 'Half'
+model path: /data1/pzy/MUTANTS/LEMON/xception/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37-39/xception-imagenet_origin-MDtype3-Edge5-MParam27-NLAll37.h5 FAILED!!!!
